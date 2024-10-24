@@ -1,0 +1,4 @@
+#runtime_limit=30
+#ask_permission_to_extend=true
+#chatgpt_assistant_enabled=true
+#work_dir=./work_dir  # This is where 'zero-update.zip' will be placed
